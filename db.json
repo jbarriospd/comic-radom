@@ -1,0 +1,57 @@
+{
+    "comics": [
+      {
+        "month": "12",
+        "num": 200,
+        "link": "",
+        "year": "2006",
+        "news": "",
+        "safe_title": "Bill Nye",
+        "transcript": "[[A restaurant. A mother and two children sit at one table; a man in a white lab coat sits in another.]]\nTitle: THE TRIBULATIONS of BILL NYE\nMother: Hey, kids, see how the ice cracks and pops in your water? I wonder what causes that...\nMother: *AHEM* I said, I wonder what --\nBill Nye: Know what? Maybe I just wanna enjoy my goddamn meal.\n{{alt text: You could at least not wear the lab coat everywhere, dude.}}",
+        "alt": "You could at least not wear the lab coat everywhere, dude.",
+        "img": "https://imgs.xkcd.com/comics/bill_nye.png",
+        "title": "Bill Nye",
+        "day": "22"
+      },
+      {
+          "month": "8",
+          "num": 304,
+          "link": "",
+          "year": "2007",
+          "news": "",
+          "safe_title": "Nighttime Stories",
+          "transcript": "[[ Man sitting in an armchair in a darkened room, behind him a bookshelf and an open window. A girl is seen outside reading a book by an eerie glow]]\nFor a few weeks now, sometime past midnight, a girl has wandered past my apartment reading by flashlight.\n[[Outside, the girl, walking down the street passing under a street lamp]]\nI wonder why she's up so late.\nMaybe she's restless\nLike me.\nI wonder what story she's wrapped up in.\nI wonder if she let's anyone into that island of light.\n[[ Man sitting in dark room ]]\n[[ Dark room minus man ]]\n[[ Man standing on his doorstep at the top of a small flight of stairs, near the bottom of which the girl has stopped, no longer reading. ]]\nMan: Hi!  What are you reading?\nGirl: Orson Scott Card's 'Xenocide.'  It's my favorite in the series!\n[[ The same, only man looks more dejected ]]\nMan: Wait, you like it more than Speaker for the Dead OR Ender's Game?\nGirl: Yeah!\n[[ The same, only man has withdrawn ]]\n[[ Man back sitting in the chair within dark apartment ]]\nAnd to think I loved her.\n{{ alt: Cue angry letters from all seven fans of Xenocide. }}",
+          "alt": "Cue angry letters from all seven fans of Xenocide.",
+          "img": "https://imgs.xkcd.com/comics/nighttime_stories.jpg",
+          "title": "Nighttime Stories",
+          "day": "17"
+        },
+        {
+          "month": "8",
+          "num": 784,
+          "link": "",
+          "year": "2010",
+          "news": "",
+          "safe_title": "Falling Asleep",
+          "transcript": "[[A man gets into bed.]]\nIt's so much easier\nfalling asleep\n\n[[A woman is lying in bed, gripping her pillow.]]\nWith you beside me--\n\n[[The man is lying on his back in bed.]]\nAll the incentive I need\n\n[[Full shot of the bed, the woman is on the left, gripping the pillow, the man is as far to the right as possible, nearly falling off, facing away from her.]]\nTo leave the world behind.\n\n{{Title text: Sweet unintersecting dreams!}}",
+          "alt": "Sweet unintersecting dreams!",
+          "img": "https://imgs.xkcd.com/comics/falling_asleep.png",
+          "title": "Falling Asleep",
+          "day": "25"
+        },
+        {
+          "month": "1",
+          "num": 367,
+          "link": "",
+          "year": "2008",
+          "news": "",
+          "safe_title": "Fandom",
+          "transcript": "[[Boy is looking through box]]\nBoy: Hey, my old Star Wars books!\n[[holding a pair of books and showing them to Girl]]\nBoy: Man. Timothy Zahn, Michael A. Stackpole, The Corellian Trilogy...\nBoy: This was my world.\nGirl: What'd you leave it for? Firefly? BSG?\nBoy: Nah.\nBoy: I guess I've just grown out of the whole obsessive fan mindset.\nGirl: Really.\nGirl: So how's Ron Paul doing?\nBoy: Ooh! Lemme recheck today's blogs.\n[[Boy heads off]]\n{{title text: Ron Paul wants to put the New Republic back on the Corusca gem standard.}}",
+          "alt": "Ron Paul wants to put the New Republic back on the Corusca gem standard.",
+          "img": "https://imgs.xkcd.com/comics/fandom.png",
+          "title": "Fandom",
+          "day": "7"
+        }
+      
+    ]
+}
