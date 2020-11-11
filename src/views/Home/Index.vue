@@ -2,16 +2,16 @@
   <div class="home-view">
     <HomeTitle />
 
-    <MainForm />
+    <HomeContent />
   </div>
 </template>
 
 <script>
-import MainForm from "./HomeForm";
 import HomeTitle from "./HomeTitle";
+import HomeContent from "./HomeContent";
 
 export default {
   name: "HomeView",
-  components: { HomeTitle, MainForm }
+  components: { HomeTitle, HomeContent }
 };
 </script>
