@@ -15,17 +15,3 @@ export default {
   }
 }
 
-/* 
-function getCurrentComic() {
-  return fetch(`${url}/info.0.json`)
-    .then(res => res.json())
-    .then(res => res.data);
-}
-
-function getRandomComic(currentComic) {
-  return Math.floor(Math.random() * (currentComic - 0 + 1) + 0);
-}
- */
-export default {
-  getComic
-};
