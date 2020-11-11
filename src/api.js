@@ -1,12 +1,20 @@
-const url = "http://xkcd.com";
-const currentComic = 2383;
+import axios from 'axios'
 
+const apiClient = axios.create({
+  baseURL: `https://my-json-server.typicode.com/jbarriospd/comic-random`,
+  withCredentials: false,
+  headers: {
+    Accept: 'application/json',
+    'Content-Type': 'application/json'
+  }
+})
 
-function getComic() {
-  return fetch(`${url}/${randomComic}/info.0.json`)
-    .then(res => res.json())
-    .then(res => res.data);
+export default {
+  getUserOne() {
+    return apiClient.get('/users/1')
+  }
 }
+
 /* 
 function getCurrentComic() {
   return fetch(`${url}/info.0.json`)
