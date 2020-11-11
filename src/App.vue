@@ -1,17 +1,31 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <LoadLayout v-if="isLoading">
+      <BaseLoading />
+    </LoadLayout>
+
+    <MainLayout v-else />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import { mapState } from "vuex";
+
+import LoadLayout from "./layouts/LoadLayout";
+import MainLayout from "./layouts/MainLayout";
+import BaseLoading from "@/components/BaseLoading.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld
+    LoadLayout,
+    MainLayout,
+    BaseLoading
+  },
+  computed: {
+    ...mapState("loading", {
+      isLoading: "isLoading"
+    })
   }
 };
 </script>
