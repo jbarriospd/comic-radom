@@ -2,7 +2,7 @@
 
 > 👾 Frontend test for masivian
 
-[D3PF](https://comic-random.netlify.com/): Vue.js app created from scratch through [Vue CLI](https://cli.vuejs.org/) that consume official xkcd: https://xkcd.com/json.html
+[comic-random](https://comic-random.netlify.com/): Vue.js app created from scratch through [Vue CLI](https://cli.vuejs.org/) that consume official API based on xkcd: https://xkcd.com/json.html
 
 ## App Live Demo
 
@@ -11,14 +11,14 @@
 ---
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9157d0d0-2fb7-42ad-9d89-9ebe7d077f9b/deploy-status)](https://app.netlify.com/sites/comic-random/deploys)
-[![Node.js CI](https://github.com/jbarriospd/diablo3-vue-platzi/workflows/Node.js%20CI/badge.svg)](https://github.com/jbarriospd/comic-random/actions)
+[![Node.js CI](https://github.com/jbarriospd/comic-random/workflows/Node.js%20CI/badge.svg)](https://github.com/jbarriospd/comic-random/actions)
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/jbarriospd/diablo3-vue-platzi)
-[![License](https://img.shields.io/github/license/jbarriospd/diablo3-vue-platzi?color=blue)](./LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/jbarriospd/comic-random)
+[![License](https://img.shields.io/github/license/jbarriospd/comic-random?color=blue)](./LICENSE)
 ![code-style](https://img.shields.io/badge/code%20style-standard-yellow)
 
-![D3PF](assets/main.png)
+![comic-random](src/assets/main.png)
 
 ---
 
@@ -46,7 +46,7 @@ npm run lint --fix
 
 ## Author
 
-<img src="https://avatars2.githubusercontent.com/u/43865749?s=4" width="100px;" alt="Jose BArrios (jbarriospd)"/>
+<img src="https://avatars2.githubusercontent.com/u/43865749?s=4" width="100px;" alt="Jose Barrios (jbarriospd)"/>
 
 ### Jose Barrios
 
