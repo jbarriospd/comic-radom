@@ -139,6 +139,76 @@
         "img": "https://imgs.xkcd.com/comics/election_screen_time.png",
         "title": "Election Screen Time",
         "day": "12"
+      },
+      {
+        "id": 11,
+        "month": "12",
+        "num": 1467,
+        "link": "",
+        "year": "2014",
+        "news": "",
+        "safe_title": "Email",
+        "transcript": "[[Two characters meet.  One is wearing a beret.]]\nCharacter: Any New Year's resolutions?\nBereted character: Gonna figure out what email is.\nCharacter: ...\nEmail?\n\n\nBereted character: People always say they're sending them.  They sound really into it, so I always nod, but I have no idea what it is.\nCharacter: You have an address on your website!\n\n[[The bereted character looks thoughtful.]]\nBereted character: Oh, \nthat's\n what that thing is.\nCharacter: Email is important! You can't just \nnever\n check it.  It's not like voicemail.\n\nBereted character: Can't they just send messages \nnormally?\n\nCharacter: How?\nBereted character: Fax! Or snapchat.\nCharacter: ... The naked pic thing?\nBereted character: Fax machines aren't \njust\n for faxting!\n\n{{Title text: My New Year's resolution for 2014-54-12\n30\n14 Dec:12:1420001642 is to learn these stupid time formatting strings.}}",
+        "alt": "My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.",
+        "img": "https://imgs.xkcd.com/comics/email.png",
+        "title": "Email",
+        "day": "31"
+      },
+      {
+        "id": 12,
+        "month": "6",
+        "num": 2003,
+        "link": "",
+        "year": "2018",
+        "news": "",
+        "safe_title": "Presidential Succession",
+        "transcript": "",
+        "alt": "Ties are broken by whoever was closest to the surface of Europa when they were born.",
+        "img": "https://imgs.xkcd.com/comics/presidential_succession.png",
+        "title": "Presidential Succession",
+        "day": "6"
+      },
+      {
+        "id": 13,
+        "month": "5",
+        "num": 2146,
+        "link": "",
+        "year": "2019",
+        "news": "",
+        "safe_title": "Waiting for the But",
+        "transcript": "",
+        "alt": "Listen, I'm not a fan of the Spanish Inquisition OR predatory multi-level marketing schemes...",
+        "img": "https://imgs.xkcd.com/comics/waiting_for_the_but.png",
+        "title": "Waiting for the But",
+        "day": "6"
+      },
+      {
+        "id": 13,
+        "month": "5",
+        "num": 580,
+        "link": "",
+        "year": "2009",
+        "news": "For this week, xkcd will update once a day (through Friday).",
+        "safe_title": "The Race: Part 4",
+        "transcript": "[[Randall\nxkcd\nman and Nathan Fillion are ready on the start line on their electric skateboards]]\nVoice off panel: On your mark...\nVoice: Get set...\nNathan: Remember episode 11, when I got all naked in that desert?\nVoice: Go!\n[[Nathan speeds away leaving Randall standing at the start line]]\nvoice: ... I said \"Go.\"\nvoice: someone throw some water on him\nRandall: Can't...get it...out of my head...\n[[Nathan on walkie talkie, speeding on his skateboard]]\nNathan: He's right behind me. Kaylee, I'm gonna try a Crazy Ivan.\nKaylee [[on walkie talkie]]: That doesn't make any sense, Nathan.\nNathan: Trust me.\nKaylee: No, I mean it's not a skateboard maneuver[sic]. The concept doesn't even apply to this situation.\nNathan [[via walkie talkie]]: That's why it just might work!\nKaylee: No, that's the opposite of true!\nNathan: On my mark, override the remote differential and throw her into a spin.\nKaylee [[via walkie talkie]] okay, but-\nNathan: Mark!\n<<WHAM>>\n[[Nathan lying injured on the ground next to his skateboard, Randall\nMan cruises past]]\n<<Whirrrrrrrr>>\n[[Nathan, trying to stand up]]\nNathan: I'm down. Tell Summer \"The chickens are in the hayloft. Plan Gamma is a go.\"\n[[Nathan, one foot on skateboard, looking at walkie talkie]]\n<<mumbling from walkie talkie>>\nKaylee: She says, \"Plan gamma acknowledged. The meerkats are in the bad.\n[[Summer Glau is walking off panel]]\nKaylee [[to walkee talkie]]: So we're good?\nNathan: Hard to tell with her. Do you see an actual bag of meerkats?\nKaylee: No.\nNathan: Then we're probably good.\n[[Randall\nMan screeching to a halt as he sees Summer Glau]]\nRandall: Oh! Hi, Miss Glau! I'd love to talk, but Nathan's back on his feet and catching up.\n[[Summer grabs Randalls arm]]\n<<Grab>>\nRandall: Wha-\n[[Summer kicks Randall in the face whilst pulling his arm towards her, he flies off his skateboard]]\n[[Summer walking away as Randall lies crippled on the floor with his sunglasses beside him]]\n[[Randall still lying on the floor]]\nRandall [[thinking]]: I've never been so turned on in my life.\n{{Alt text: Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously. Title: The Race: Part 4. Comic: xkcd. Tags: firefly, nathan fillion, summer glau, crazy ivan, serenity, whedon}}",
+        "alt": "Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.",
+        "img": "https://imgs.xkcd.com/comics/the_race_part_4.png",
+        "title": "The Race: Part 4",
+        "day": "7"
+      },
+      {
+        "id": 13,
+        "month": "5",
+        "num": 1999,
+        "link": "",
+        "year": "2018",
+        "news": "",
+        "safe_title": "Selection Effect",
+        "transcript": "",
+        "alt": "fMRI testing showed that subjects who don't agree to participate are much more likely to escape from the machine mid-scan.",
+        "img": "https://imgs.xkcd.com/comics/selection_effect.png",
+        "title": "Selection Effect",
+        "day": "28"
       }
       
     ]

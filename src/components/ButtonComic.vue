@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button class="button" @click="getRandomComic">Get Ramdom Comic</button>
+    <button class="button" @click="getRandomComic"><slot /></button>
   </div>
 </template>
 
@@ -18,7 +18,7 @@ export default {
 <style lang="scss">
 .button {
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 16px;
   text-align: center;
   text-transform: uppercase;

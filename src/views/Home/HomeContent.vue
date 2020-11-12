@@ -1,7 +1,7 @@
 <template>
   <div>
     <img class="img-comic" :src="info.img" :alt="info.alt" />
-    <ButtonComic />
+    <ButtonComic>Get Radom Comic</ButtonComic>
   </div>
 </template>
 

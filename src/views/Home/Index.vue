@@ -3,7 +3,7 @@
     <HomeTitle :info="info" />
 
     <HomeContent :info="info" />
-    <h2 class="rating-title">Do you like?</h2>
+    <h2 class="rating-title">Do you like It?</h2>
     <Rating class="rating-container" />
   </div>
 </template>
