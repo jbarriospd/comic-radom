@@ -18,7 +18,7 @@
 [![License](https://img.shields.io/github/license/jbarriospd/diablo3-vue-platzi?color=blue)](./LICENSE)
 ![code-style](https://img.shields.io/badge/code%20style-standard-yellow)
 
-![D3PF](assets/.png)
+![D3PF](assets/main.png)
 
 ---
 
@@ -31,11 +31,11 @@ npm install
 
 # Compiles and hot-reloads for development
 
-npm serve
+npm run serve
 
 # Compiles and minifies for production
 
-npm build
+npm run build
 
 # Lints and fixes files
 
