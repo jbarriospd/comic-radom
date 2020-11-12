@@ -1,9 +1,9 @@
 <template>
-  <div class="text-center ">
-    <p class="text-muted">Powered by</p>
+  <div class="poweredby ">
+    <p class="">Powered by</p>
 
-    <ul class="list-inline">
-      <li class="list-inline-item mx-2" v-for="(icon, idx) in icons" :key="idx">
+    <ul class="poweredby-icons">
+      <li class="" v-for="(icon, idx) in icons" :key="idx">
         <a :href="icon.href" target="_blank" :title="icon.href">
           <font-awesome-icon
             :icon="icon.classes"
@@ -27,3 +27,14 @@ export default {
   }
 };
 </script>
+<style lang="scss">
+.poweredby {
+  display: flex;
+}
+.poweredby-icons {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 5px;
+}
+</style>

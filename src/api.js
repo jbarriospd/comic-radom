@@ -1,17 +1,19 @@
-import axios from 'axios'
+import axios from "axios";
 
 const apiClient = axios.create({
   baseURL: `https://my-json-server.typicode.com/jbarriospd/comic-random`,
   withCredentials: false,
   headers: {
-    Accept: 'application/json',
-    'Content-Type': 'application/json'
+    Accept: "application/json",
+    "Content-Type": "application/json"
   }
-})
-
-export default {
-  getUserOne() {
-    return apiClient.get('/users/1')
-  }
+});
+function getComic(idComic) {
+  return apiClient.get(`/comics/${idComic}`);
 }
 
+function getRandomComic() {
+  return Math.floor(Math.random() * (4 - 1 + 1) + 1);
+}
+
+export { getComic, getRandomComic };

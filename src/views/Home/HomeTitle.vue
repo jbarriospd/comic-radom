@@ -1,10 +1,18 @@
 <template>
-  <h1>title</h1>
+  <div>
+    <h1>{{ info.title }}</h1>
+  </div>
 </template>
 
 <script>
 export default {
-  name: "HomeTitle"
+  name: "HomeContent",
+  props: {
+    info: {
+      info: Object,
+      default: () => {}
+    }
+  }
 };
 </script>
 
