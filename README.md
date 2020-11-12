@@ -18,7 +18,7 @@
 [![License](https://img.shields.io/github/license/jbarriospd/comic-random?color=blue)](./LICENSE)
 ![code-style](https://img.shields.io/badge/code%20style-standard-yellow)
 
-![comic-random](src/assets/main.png)
+![comic-random](src/assets/demo.png)
 
 ---
 
@@ -46,7 +46,7 @@ npm run lint --fix
 
 ## Author
 
-<img src="https://avatars2.githubusercontent.com/u/43865749?s=4" width="100px;" alt="Jose Barrios (jbarriospd)"/>
+<img src="https://avatars1.githubusercontent.com/u/43865749?s=60&u=e54a67ead6653d0a4aad2b34df51d9da32e46eb5&v=4" width="100px;" alt="Jose Barrios (jbarriospd)"/>
 
 ### Jose Barrios
 
